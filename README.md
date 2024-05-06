@@ -1,7 +1,3 @@
-Here is a draft for the GitHub project description based on the information provided from the document:
-
----
-
 ## Image Compression Algorithm Comparison for Medical Images
 
 ### Project Overview
@@ -22,10 +18,3 @@ The primary objective is to guide medical companies in selecting an appropriate 
 - **Analysis Results**
 - **Comparative Analysis of Compression Ratios and Image Quality**
 - **Conclusions Drawn from Data Evaluation**
-
-### Conclusion
-Both DCT and wavelet-based compression algorithms exhibit unique advantages and trade-offs. This repository not only offers a detailed comparison of these algorithms but also provides insights and practical guidance for their application in medical imaging, aiding in better decision-making for image storage and transmission in healthcare environments.
-
----
-
-This description provides a structured overview of what the project encompasses and highlights the research's practical applications. Adjustments can be made based on additional details or specific aspects you want to emphasize in your GitHub repository.
